@@ -1,0 +1,11 @@
+README.md
+pyproject.toml
+src/dataqualipy/__init__.py
+src/dataqualipy/core.py
+src/dataqualipy/profiler.py
+src/dataqualipy/setup.py
+src/dataqualipy.egg-info/PKG-INFO
+src/dataqualipy.egg-info/SOURCES.txt
+src/dataqualipy.egg-info/dependency_links.txt
+src/dataqualipy.egg-info/top_level.txt
+tests/test_profiler.py
